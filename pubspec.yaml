@@ -1,0 +1,91 @@
+name: myfuture_application
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+#profile picture 
+  image_picker: ^1.2.1
+  firebase_storage: ^13.0.5
+
+#firebase 
+  firebase_core: ^4.1.0
+  firebase_auth: ^6.0.2
+  cloud_firestore: ^6.0.1
+
+#onboarding screen 
+  smooth_page_indicator: ^1.2.1
+
+#bottom navigation
+  curved_navigation_bar: ^1.0.6
+
+  intl: ^0.20.2
+
+#url_launcher 
+  url_launcher: ^6.3.2
+  google_sign_in: ^7.2.0
+
+#notifications 
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.9.2
+  shared_preferences: ^2.5.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+
+# device preview
+  device_preview: ^1.3.1
+
+
+# The following section is specific to Flutter packages.
+flutter: 
+  uses-material-design: true
+
+  assets:
+    - assets/images/google_logo.png
+    - assets/logo/myfuture_logo.png
+    - assets/gif/aeroplane.gif
+    - assets/gif/thinking.gif
+    - assets/gif/time.gif
+    - assets/images/forgot.png
+    - assets/images/change_password.png
+
+#mbti quiz 
+    - assets/mbti/mbti_questions.json
+    - assets/mbti/mbti_results.json
+    - assets/images/personality_quiz.jpeg
+
+#career quiz
+    - assets/careers/career_questions.json
+    - assets/images/career_quiz.jpeg
+    - assets/careers/career_results.json
+    - assets/careers/career_lists.json
+
+#slider emojis 
+    - assets/emojis/strongly_agree.png
+    - assets/emojis/agree.png
+    - assets/emojis/neutral.png
+    - assets/emojis/disagree.png
+    - assets/emojis/strongly_disagree.png
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: 'assets/logo/myfuture_logo.png'
+  adaptive_icon_background: '#ffffff'
+  adaptive_icon_foreground: 'assets/logo/myfuture_logo.png'
+
+

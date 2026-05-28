@@ -1,0 +1,39 @@
+[
+    
+  {
+    "id": "R",
+    "name": "The Doer (Realistic)",
+    "description": "You like working with your hands, tools, and machines. You prefer practical problems and outdoor activities.",
+    "jobs": ["Engineer", "Pilot", "Chef", "Mechanic", "Architect", "Police Officer"]
+  },
+  {
+    "id": "I",
+    "name": "The Thinker (Investigative)",
+    "description": "You love analyzing, solving puzzles, and understanding how the world works. You value logic and precision.",
+    "jobs": ["Scientist", "Doctor", "Software Developer", "Psychologist", "Researcher", "Detective"]
+  },
+  {
+    "id": "A",
+    "name": "The Creator (Artistic)",
+    "description": "You are expressive, original, and independent. You love creating things without strict rules.",
+    "jobs": ["Graphic Designer", "Writer", "Musician", "Actor", "Editor", "Fashion Designer"]
+  },
+  {
+    "id": "S",
+    "name": "The Helper (Social)",
+    "description": "You love helping, teaching, and healing others. You are friendly and trustworthy.",
+    "jobs": ["Teacher", "Nurse", "Counselor", "Social Worker", "Coach", "HR Manager"]
+  },
+  {
+    "id": "E",
+    "name": "The Persuader (Enterprising)",
+    "description": "You are a natural leader. You are energetic, ambitious, and good at convincing others.",
+    "jobs": ["Entrepreneur", "Lawyer", "Manager", "Marketing Specialist", "Politician", "Sales Director"]
+  },
+  {
+    "id": "C",
+    "name": "The Organizer (Conventional)",
+    "description": "You like structure, rules, and clear procedures. You are organized, careful, and efficient.",
+    "jobs": ["Accountant", "Data Analyst", "Banker", "Secretary", "Librarian", "Administrator"]
+  }
+]

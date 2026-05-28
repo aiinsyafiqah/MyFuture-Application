@@ -1,0 +1,319 @@
+[
+  {
+    "id": "Medical Doctor",
+    "riasecCategory": "Investigative",
+    "salary": "RM 4,500 - RM 6,500 (UD41)",
+    "job_desc": "Diagnose and treat patients' illnesses and injuries in hospitals or clinics.",
+    "pathways": [
+      {
+        "type": "Academic Pathway",
+        "recommended_mbti": "Intuitive (N)",
+        "reason": "Requires deep theoretical knowledge, memorization, and long-term academic commitment.",
+        "duration": "6 - 7 Years",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "Straight A's in Biology, Chemistry, Physics, and Math."
+          },
+          {
+            "title": "Matriculation / Asasi",
+            "time": "1 Year",
+            "desc": "Score CGPA 4.00 to compete for public university spots."
+          },
+          {
+            "title": "MBBS Degree",
+            "time": "5 Years",
+            "desc": "Pre-clinical and clinical training in university hospitals."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Microbiologist",
+    "riasecCategory": "Investigative",
+    "salary": "RM 2,500 - RM 4,000",
+    "job_desc": "Study microorganisms like bacteria and viruses to understand how they affect our lives.",
+    "pathways": [
+      {
+        "type": "Science Pathway",
+        "recommended_mbti": "Intuitive (N)",
+        "reason": "Focuses on research, lab experiments, and scientific analysis.",
+        "duration": "4 Years",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "Credit in Biology, Chemistry, and Math."
+          },
+          {
+            "title": "Bachelor of Science (Microbiology)",
+            "time": "3 - 4 Years",
+            "desc": "Lab-intensive course studying genetics and immunology."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Welder",
+    "riasecCategory": "Realistic",
+    "salary": "RM 2,500 - RM 6,000 (Oil & Gas)",
+    "job_desc": "Join metal parts using extreme heat; highly sought after in construction and oil & gas.",
+    "pathways": [
+      {
+        "type": "TVET Pathway",
+        "recommended_mbti": "Sensing (S)",
+        "reason": "Purely hands-on skill requiring precision and physical control.",
+        "duration": "1 - 2 Years",
+        "steps": [
+          {
+            "title": "SPM / PT3",
+            "time": "-",
+            "desc": "No strict academic requirement."
+          },
+          {
+            "title": "SKM Level 3 (Welding)",
+            "time": "1 - 2 Years",
+            "desc": "Training at GiatMARA or ILP focusing on 3G/6G welding."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Pilot",
+    "riasecCategory": "Realistic",
+    "salary": "RM 5,000 - RM 15,000+",
+    "job_desc": "Navigate and fly aircraft to transport passengers and cargo safely.",
+    "pathways": [
+      {
+        "type": "Flying School Pathway",
+        "recommended_mbti": "Sensing (S)",
+        "reason": "Requires high situational awareness, reflexes, and adherence to strict procedures.",
+        "duration": "2 Years",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "5 Credits including Math, Physics, and English."
+          },
+          {
+            "title": "Flying Academy",
+            "time": "18 - 24 Months",
+            "desc": "Obtain CPL/IR (Commercial Pilot License) with frozen ATPL."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Fashion Designer",
+    "riasecCategory": "Artistic",
+    "salary": "RM 2,000 - RM 3,500",
+    "job_desc": "Design clothing and accessories, following trends or creating new styles.",
+    "pathways": [
+      {
+        "type": "Creative Pathway",
+        "recommended_mbti": "Intuitive (N)",
+        "reason": "Driven by artistic vision, trends, and abstract concepts.",
+        "duration": "3 Years",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "Pass SPM (Art subject is a bonus)."
+          },
+          {
+            "title": "Diploma in Fashion Design",
+            "time": "3 Years",
+            "desc": "Learn sketching, pattern making, and textile selection."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Musician",
+    "riasecCategory": "Artistic",
+    "salary": "Variable (Gig Based)",
+    "job_desc": "Play instruments, sing, or compose music for entertainment and production.",
+    "pathways": [
+      {
+        "type": "Talent & Academy Pathway",
+        "recommended_mbti": "Intuitive (N)",
+        "reason": "Relies on expression, creativity, and auditory patterns.",
+        "duration": "3 Years",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "Pass SPM."
+          },
+          {
+            "title": "Diploma/Degree in Music",
+            "time": "3 Years",
+            "desc": "Study music theory, composition, and performance at UiTM/Aswara."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Hotel Manager",
+    "riasecCategory": "Social",
+    "salary": "RM 3,000 - RM 5,000",
+    "job_desc": "Oversee hotel operations to ensure guests have a pleasant stay.",
+    "pathways": [
+      {
+        "type": "Hospitality Pathway",
+        "recommended_mbti": "Sensing (S)",
+        "reason": "Focuses on customer service standards and operational details.",
+        "duration": "3 Years",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "Pass SPM."
+          },
+          {
+            "title": "Diploma in Hotel Management",
+            "time": "3 Years",
+            "desc": "Learn front office, housekeeping, and F&B management."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Physiotherapist",
+    "riasecCategory": "Social",
+    "salary": "RM 2,500 - RM 4,000",
+    "job_desc": "Help patients recover movement and manage pain through physical exercises.",
+    "pathways": [
+      {
+        "type": "Health Science Pathway",
+        "recommended_mbti": "Sensing (S)",
+        "reason": "Hands-on treatment requiring anatomical knowledge.",
+        "duration": "4 Years",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "Credits in Science subjects."
+          },
+          {
+            "title": "Degree in Physiotherapy",
+            "time": "4 Years",
+            "desc": "Clinical training and study of human anatomy."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Flight Attendant",
+    "riasecCategory": "Enterprising",
+    "salary": "RM 3,500 - RM 6,000 (Including Allowances)",
+    "job_desc": "Ensure passenger safety and comfort during flights.",
+    "pathways": [
+      {
+        "type": "Training Pathway",
+        "recommended_mbti": "Enterprising (E)",
+        "reason": "Customer-facing role requiring great communication and persuasion skills.",
+        "duration": "6 Months",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "Credit in English and BM. Must meet height requirements."
+          },
+          {
+            "title": "Airline Training",
+            "time": "4 - 6 Months",
+            "desc": "Intensive safety and service training provided by the airline."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Event Manager",
+    "riasecCategory": "Enterprising",
+    "salary": "RM 2,800 - RM 4,500",
+    "job_desc": "Plan, organize, and execute events like conferences, weddings, and concerts.",
+    "pathways": [
+      {
+        "type": "Communication Pathway",
+        "recommended_mbti": "Enterprising (E)",
+        "reason": "Requires leadership, quick decision making, and negotiation.",
+        "duration": "3 Years",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "Pass SPM."
+          },
+          {
+            "title": "Diploma in Event Management",
+            "time": "3 Years",
+            "desc": "Learn logistics, marketing, and project management."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Quantity Surveyor",
+    "riasecCategory": "Conventional",
+    "salary": "RM 2,500 - RM 4,000",
+    "job_desc": "Manage costs and contracts for construction projects.",
+    "pathways": [
+      {
+        "type": "Professional Pathway",
+        "recommended_mbti": "Sensing (S)",
+        "reason": "Deals with numbers, measurements, and strict contract clauses.",
+        "duration": "4 Years",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "Credit in Math."
+          },
+          {
+            "title": "Degree in Quantity Surveying",
+            "time": "3.5 - 4 Years",
+            "desc": "Recognized by BQSM (Board of Quantity Surveyors Malaysia)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Logistic Officer",
+    "riasecCategory": "Conventional",
+    "salary": "RM 2,300 - RM 3,500",
+    "job_desc": "Coordinate the storage and transportation of goods in a supply chain.",
+    "pathways": [
+      {
+        "type": "Management Pathway",
+        "recommended_mbti": "Sensing (S)",
+        "reason": "Focuses on schedules, tracking systems, and efficiency.",
+        "duration": "3 Years",
+        "steps": [
+          {
+            "title": "SPM",
+            "time": "-",
+            "desc": "Pass SPM."
+          },
+          {
+            "title": "Diploma in Logistics",
+            "time": "3 Years",
+            "desc": "Learn supply chain management and warehousing."
+          }
+        ]
+      }
+    ]
+  }
+]

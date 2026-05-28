@@ -1,0 +1,120 @@
+[
+    {
+        "category": "R", "question_text":"Building furniture or wood projects"
+    },
+    {
+        "category": "R", "question_text":"Fixing & take out parts"
+    },
+    {
+        "category": "R", "question_text":"Assemble computer or electronic parts"
+    },
+    {
+        "category": "R", "question_text":"Work with tools and machinery"
+    },
+    {
+        "category": "R", "question_text":"Exploring nature & being outdoors"
+    },
+    {
+        "category": "R", "question_text":"DIY projects"
+    }, 
+
+    
+    {
+        "category": "I", "question_text":"Conducting science experiments"
+    },
+    {
+        "category": "I", "question_text":"Solving complex maths"
+    },
+    {
+        "category": "I", "question_text":"Watching documentaries & science videos"
+    },
+    {
+        "category": "I", "question_text":"Doing environmental research"
+    },
+    {
+        "category": "I", "question_text":"Solving puzzles & mysteries"
+    },
+    {
+        "category": "I", "question_text":"Exploring coding and programming"
+    },
+
+    {
+        "category": "A", "question_text":"Acting,dancing or performing"
+    },
+    {
+        "category": "A", "question_text":"Play musical instrumentals"
+    },
+    {
+        "category": "A", "question_text":"Write creative stories, poetry, lyrics"
+    },
+    {
+        "category": "A", "question_text":"Draw, paint or create artwork"
+    },
+    {
+        "category": "A", "question_text":"Design logo or poster"
+    },
+    {
+        "category": "A", "question_text":"Editing videos"
+    },
+
+    {
+        "category": "S", "question_text":"Teach or tutor others"
+    },
+    {
+        "category": "S", "question_text":"Listen to others and make sure them feel better"
+    },
+    {
+        "category": "S", "question_text":"Do volunteer work"
+    },
+    {
+        "category": "S", "question_text":"Taking care of animals"
+    },
+    {
+        "category": "S", "question_text":"Hanging out with people"
+    },
+    {
+        "category": "S", "question_text":"Meeting & getting to know people"
+    },
+
+    {
+        "category": "E", "question_text":"Be a leader"
+    },
+    {
+        "category": "E", "question_text":"Organising an event"
+    },
+    {
+        "category": "E", "question_text":"Public speaking & debate"
+    },
+    {
+        "category": "E", "question_text":"Start a small business"
+    },
+    {
+        "category": "E", "question_text":"Persuade others to agree with your ideas"
+    },
+    {
+        "category": "E", "question_text":"Working in a group"
+    },
+
+    {
+        "category": "C", "question_text":"Organize files & folders"
+    },
+    {
+        "category": "C", "question_text":"Create a schedule or plan for an event"
+    },
+    {
+        "category": "C", "question_text":"Follow clear instructions and procedures carefully"
+    },
+    {
+        "category": "C", "question_text":"Managing a business"
+    },
+    {
+        "category": "C", "question_text":"Control & manage money"
+    },
+    {
+        "category": "C", "question_text":"Keeping a journal and daily planner"
+    }
+
+    
+
+
+]

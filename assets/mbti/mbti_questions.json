@@ -1,0 +1,22 @@
+[
+  { "id": "q1", "text": "I usually start conversations with people I don't know well.", "dimension": "EI", "direction": 1 },
+  { "id": "q2", "text": "I prefer to have a wide circle of friends rather than a few close ones.", "dimension": "EI", "direction": 1 },
+  { "id": "q3", "text": "After a long week of school, I prefer to stay home alone to recharge.", "dimension": "EI", "direction": -1 },
+  { "id": "q4", "text": "I feel uncomfortable being the center of attention.", "dimension": "EI", "direction": -1 },
+  { "id": "q5", "text": "I think fast and like to 'speak while I think'.", "dimension": "EI", "direction": 1 },
+  { "id": "q6", "text": "I trust facts and experience more than theories and 'what ifs'.", "dimension": "SN", "direction": 1 },
+  { "id": "q7", "text": "I often get lost in my thoughts and imagine the future.", "dimension": "SN", "direction": -1 },
+  { "id": "q8", "text": "I prefer classes that teach practical skills I can use immediately.", "dimension": "SN", "direction": 1 },
+  { "id": "q9", "text": "I like to understand the 'big picture' before learning the details.", "dimension": "SN", "direction": -1 },
+  { "id": "q10", "text": "I pay close attention to details and rarely make careless mistakes.", "dimension": "SN", "direction": 1 },
+  { "id": "q11", "text": "When making a decision, I follow my head (logic) more than my heart.", "dimension": "TF", "direction": 1 },
+  { "id": "q12", "text": "I worry a lot about hurting other people's feelings.", "dimension": "TF", "direction": -1 },
+  { "id": "q13", "text": "It is more important to be truthful than to be tactful (polite).", "dimension": "TF", "direction": 1 },
+  { "id": "q14", "text": "I naturally understand how people are feeling emotionally.", "dimension": "TF", "direction": -1 },
+  { "id": "q15", "text": "I value justice and fairness over mercy and forgiveness.", "dimension": "TF", "direction": 1 },
+  { "id": "q16", "text": "I like to have a schedule and stick to it.", "dimension": "JP", "direction": 1 },
+  { "id": "q17", "text": "I work better under pressure, right before the deadline.", "dimension": "JP", "direction": -1 },
+  { "id": "q18", "text": "I dislike surprises and prefer to know what will happen next.", "dimension": "JP", "direction": 1 },
+  { "id": "q19", "text": "I am messy and disorganized, but I know where everything is.", "dimension": "JP", "direction": -1 },
+  { "id": "q20", "text": "I like to finish my work well before the deadline so I can relax.", "dimension": "JP", "direction": 1 }
+]

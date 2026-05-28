@@ -1,0 +1,149 @@
+[
+    {
+        "id": "INTJ", 
+        "title" : "The Architect",
+        "description" : "Imaginative and strategic thinkers, with a plan for everything", 
+        "strengths" : "Rational, Informed, Independent, Determined, Curious",
+        "educational_style" : "Like theoretical, high academically competitive."
+        
+    },
+
+    {
+        "id": "INTP", 
+        "title" : "The Logician",
+        "description" : "Innovative inventors with an unquenchable thirst for knowledge", 
+        "strengths" : "Analytical, Originality, Open-Minded, Honest, Curious",
+        "educational_style" : "Requires deep reading and critical analysis."
+        
+    },
+
+    {
+        "id": "ENTJ", 
+        "title" : "The Commander",
+        "description" : "Bold, imaginative and strong-willed leaders, always finding a way — or making one", 
+        "strengths" : "Efficient, Energetic, Self-Confident, Strong-Willed, Strategic Thinker, Charismatic and Inspiring",
+        "educational_style" : "Like theoretical, high academically competitive."
+        
+    },
+
+    {
+        "id": "ENTP", 
+        "title" : "The Debater",
+        "description" : "Smart and curious thinkers who cannot resist an intellectual challenge", 
+        "strengths" : "Knowledgeable, Quick Thinkers, Originality, Excellent Brainstormers, Charismatic, Energetic",
+        "educational_style" : "Requires deep reading and critical analysis."
+        
+    },
+
+    {
+        "id": "INFJ", 
+        "title" : "The Advocate",
+        "description" : "Quiet and mystical, yet very inspiring and tireless idealist", 
+        "strengths" : "Insightful, Principled, Passionate, Creative, Selfless",
+        "educational_style" : "Requires deep reading and critical analysis."
+        
+    },
+
+    {
+        "id": "INFP", 
+        "title" : "The Mediator",
+        "description" : "Poetic, kind and selfless people, always eager to help a good cause", 
+        "strengths" : "Empathetic, Generous, Tolerant and Accepting, Passionate, Idealistic, Imaginative",
+        "educational_style" : "Requires deep reading and critical analysis."
+        
+    },
+
+    {
+        "id": "ENFJ", 
+        "title" : "The Protagonist",
+        "description" : "Charismatic and inspiring leaders, able to mesmerize their listeners", 
+        "strengths" : "Willing to listen, Reliable, Passionate, Selfless, Charismatic",
+        "educational_style" : "Like theoretical, high academically competitive."
+        
+    },
+
+    {
+        "id": "ENFP", 
+        "title" : "The Campaigner",
+        "description" : "Enthusiastic, creative and sociable free spirits, who can always find a reason to smile", 
+        "strengths" : "Curiousity, Sensitive To Other Feelings, Enthusiastic, Excellent Communicators, Easygoing, Warmhearted and Positive",
+        "educational_style" : "Requires deep reading and critical analysis."
+        
+    },
+
+    {
+        "id": "ISTJ", 
+        "title" : "The Logistician",
+        "description" : "Practical and fact-minded individuals, whose reliability cannot be doubted", 
+        "strengths" : "Honest and Direct, Disciplined, Very responsible, Calm and Practical, Organized and Effective, Love procedures and techniques",
+        "educational_style" : "Loves flexibility, mix of practical and theory. Specific industry focus."
+        
+    },
+
+    {
+        "id": "ISFJ", 
+        "title" : "The Defender",
+        "description" : "Very dedicated and warm protectors, always ready to defend their loved ones.", 
+        "strengths" : "Supportive, Reliable, Observant, Enthusiastic, Hardworking, Walks the talk",
+        "educational_style" : "Loves flexibility, mix of practical and theory. Specific industry focus."
+        
+    },
+
+    {
+        "id": "ESTJ", 
+        "title" : "The Executive",
+        "description" : "Excellent administrators, unsurpassed at managing things — or people", 
+        "strengths" : "Dedicated, Strong-willed, Direct and Honest, Loyal, Patient and Reliable, Excellent Organizers ",
+        "educational_style" : "Loves flexibility, mix of practical and theory. Specific industry focus."
+        
+    },
+
+     {
+        "id": "ESFJ", 
+        "title" : "The Consul",
+        "description" : "Extraordinarily caring, social and popular people, always eager to help", 
+        "strengths" : "Strong Practical Skills, Strong Sense of Duty, Very Loyal, Sensitive and Warm, Good at Connecting with Others ",
+        "educational_style" : "Loves flexibility, mix of practical and theory. Specific industry focus."
+        
+    },
+
+    {
+        "id": "ISTP", 
+        "title" : "The Virtuoso",
+        "description" : "Bold and practical experimenters, masters of all kinds of tools.", 
+        "strengths" : "Diligent and Observant, Handy and Resourceful, Spontaneous, Direct and Authentic, Independent, Stay present in the moment",
+        "educational_style" : "Highly practical, loves hand-ons activities and an immediate results."
+        
+    },
+
+    {
+        "id": "ISFP", 
+        "title" : "The Adventurer",
+        "description" : "Flexible and charming artists, always ready to explore and experience something new", 
+        "strengths" : "Charming, Sensitive to Others, Kind and Encouraging, Imaginative, Passionate",
+        "educational_style" : "Highly practical, loves hand-ons activities and an immediate results."
+        
+    },
+
+    {
+        "id": "ESTP", 
+        "title" : "The Entrepreneur",
+        "description" : "Smart, energetic and very perceptive people, who truly enjoy living on the edge", 
+        "strengths" : "Bold, Rational and Practical, Love experiment new ideas, Direct, Sociable, Highly Observant ",
+        "educational_style" : "Highly practical, loves hand-ons activities and an immediate results."
+        
+    },
+
+    {
+        "id": "ESFP", 
+        "title" : "The Entertainer",
+        "description" : "Spontaneous, energetic and enthusiastic people — life is never boring around them", 
+        "strengths" : "Bold, Original, Positive and Enthusiastic, Hands-on and Observant, Excellent People Skills.",
+        "educational_style" : "Highly practical, loves hand-ons activities and an immediate results."
+        
+    }
+
+    
+
+
+]
