@@ -1,15 +1,15 @@
-## 🎓 MyFuture Application 
+# 🎓 MyFuture Application 
 
 A personalized mobile application for high school students in choosing the right education and career pathways. Using a rule-based system to determine the personalization combining MBTI personality and RIASEC test. 
 
 🏆 Award : Best of the Best Final Year Project in Faculty
 
-# 📌 Problem Statement 
+## 📌 Problem Statement 
 Many Malaysian students, particularly those from schools with fewer educational resources, may have limited exposure to the different education pathways and scholarship opportunities available after SPM.
 
 MyFuture was developed to bring these resources together in a single platform and help students make more informed decisions about their education and future careers.
 
-# 👩🏻‍💻 My Role 
+## 👩🏻‍💻 My Role 
 I was responsible for the development of the MyFuture application, including:
 
 - Designing the application interface
@@ -21,7 +21,7 @@ I was responsible for the development of the MyFuture application, including:
 - Developing the admin dashboard
 - Testing and improving the application based on feedback
 
-# 💻 Technologies 
+## 💻 Technologies 
 - Dart
 - Flutter
 - Firebase Authentication 
@@ -30,13 +30,13 @@ I was responsible for the development of the MyFuture application, including:
 - Rule based system 
 
 # 🫆 Features 
-# 🔐 User Authentication
+## 🔐 User Authentication
 - User registration and login (incl. email verification for first sign up)
 - Forgot password functionality 
 - Secure user authentication using Firebase Authentication
 - User profile management (changing password)
 
-# 🚸 Education Pathway Explorer
+## 🚸 Education Pathway Explorer
 Explore different education pathways available after SPM, including :
 - Matriculation
 - A-Level
@@ -48,7 +48,7 @@ Explore different education pathways available after SPM, including :
 
 Each pathway provides information to help students understand their options before making further decisions. 
 
-# 💼 Career & Personality Assessment
+## 💼 Career & Personality Assessment
 MyFuture application includes assessment to help students personalized their career and best pathways based on their interest and personality. 
 
 - Career assessment
@@ -58,14 +58,14 @@ MyFuture application includes assessment to help students personalized their car
 
 The application calculates the user's responses and uses a rule-based scoring system to determine suitable career recommendations.
 
-# 💡 Rule-Based Recommendations
+## 💡 Rule-Based Recommendations
 Instead of using machine learning, MyFuture uses a rule-based recommendation system.
 
 The system processes the user's assessment responses using predefined scoring rules and calculations to generate career recommendations.
 
 This approach was chosen to provide more consistent and explainable results after an initial exploration of machine learning produced biased recommendations.
 
-# 💰 Scholarship Finder 
+## 💰 Scholarship Finder 
 Students can browse available scholarships and view important information such as :
 
 - Scholarship name
@@ -76,12 +76,12 @@ Students can browse available scholarships and view important information such a
 
 Scholarships are automatically displayed as **OPEN** or **CLOSED** based on their application closing dates. **APPLY** button will automatically redirect students to the scholarships application website page. 
 
-# 📱 Application Flow 
+## 📱 Application Flow 
 <img width="632" height="764" alt="Screenshot 2026-10-04 at 23 46 32" src="https://github.com/user-attachments/assets/75e32e1b-6570-4b69-a580-7ecbc1fbfb02" />
 <img width="497" height="810" alt="Screenshot 2026-10-04 at 23 47 25" src="https://github.com/user-attachments/assets/23c5f283-9965-440f-99f3-9c6789f57c7c" />
 <img width="570" height="790" alt="Screenshot 2026-10-04 at 23 48 00" src="https://github.com/user-attachments/assets/7951aedf-fcfd-4f2a-90d5-6c8a788e8eff" />
 
-# 📚 What I learned
+## 📚 What I learned
 Through this project, I gained practical experience in:
 
 - Mobile application development
@@ -95,7 +95,7 @@ Through this project, I gained practical experience in:
 - Ensuring the assessment scoring is correct based on the revised MBTI personality and RIASEC questions provide by school counselor
 
 
-# 🔄 Development Journey 
+## 🔄 Development Journey 
 During development, I initially explored using a machine learning approach for the career recommendation feature.
 
 However, after testing the model, I found that the recommendations could become biased and did not consistently reflect the assessment results as intended.
@@ -107,7 +107,7 @@ The final system calculates the user's assessment responses using predefined rul
 This experience taught me that using a more complex technology is not always the best solution. For MyFuture, a rule-based approach provided results that were more predictable, transparent, and easier to validate.
 
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 Some features I would like to explore in the future include:
 
 - More personalized education pathway recommendations
